@@ -11,15 +11,23 @@
 #+PROPERTY: JUAN 2
 ¶
 
- 福源石屋珙禪師語錄卷之下¶
-參學門人　至柔　等編¶
+福源石屋珙禪師語錄卷之下¶	Recorded sayings of Chan master Fuyuan Shiwu Hong, Volume 2
+參學門人　至柔　等編¶	Compiled by disciple Zhi Mao and others
 
-山居詩¶
+山居詩¶	Mountain poems	
 
-余山林多暇。瞌睡之餘。偶成偈語自娛。紙墨少便¶
-不欲紀之。雲衲禪人請書。蓋。欲知我山中趣向。於¶
-是。靜思隨意走筆。不覺盈帙。故掩而歸之。復囑慎¶
-勿以此為歌詠之助。當須參意。則有激焉。¶
+余山林多暇。	In the mountains and woods, I am always free.
+瞌睡之餘。	The time I don't spend sleeping,
+偶成偈語自娛。	I entertain myself writing down verses I encounter.
+紙墨少便¶不欲紀之。	Because paper and ink are rare, I did not wish to write them down
+雲衲禪人請書。	But now some Chan monks asked me to write,
+蓋欲知我山中趣向。	since they wish to now what I find interesting in the mountain.
+於¶是靜思隨意走筆。	Therefore I have sat quiet and let my mind follow my brush,
+不覺盈帙。	suddenly the volume is full.
+故掩而歸之。	So I close it and send it back,
+復囑慎¶勿以此為歌詠之助。	with the admonition not to try to sing these poems.
+當須參意。	You will need to consider there meaning,
+則有激焉。¶	only then will they be able to move you.
 
 吾家住在霅溪西。水滿天湖月滿溪。未到盡驚山險¶
 峻。曾來方識路高低。蝸涎素壁粘枯殻。虎過新蹄印¶
