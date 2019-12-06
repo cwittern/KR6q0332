@@ -1,4 +1,4 @@
-#-*- mode: mandoku-view; -*-
+# -*- mode: mandoku-view; -*-
 #+DATE: 2015-08-30 21:50:00.511248
 #+TITLE: 石屋清洪禪師語錄
 #+PROPERTY: CBETA_ID X70n1399
